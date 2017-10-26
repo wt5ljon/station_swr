@@ -1,4 +1,4 @@
-# End-Fed Antenna Tuner Summary - Oct. 26, 2017
+# End-Fed Antenna Tuner Summary
 
 ### 80-Meter Band
 Frequency Range | Tune | Inductor
@@ -74,7 +74,7 @@ Frequency Range | Tune | Inductor
 28450 - 28600 | 76 | 368
 28600 - 28800 | 81 | 368
 
-# End-Fed Antenna Tuner Details - Oct. 26, 2017
+# End-Fed Antenna Tuner Details
 
 ### 80-Meter Band
 Frequency | Tune | Inductor
