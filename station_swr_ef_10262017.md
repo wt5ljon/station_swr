@@ -17,7 +17,7 @@ Frequency | Tune | Inductor
 
 ***
 
-###40-Meter Band
+### 40-Meter Band
 Frequency | Tune | Inductor
 --- |:---:|:---:
 7000 | 66 | 322
@@ -31,7 +31,7 @@ Frequency | Tune | Inductor
 
 ***
 
-###30-Meter Band
+### 30-Meter Band
 Frequency | Tune | Inductor
 --- |:---:|:---:
 10100 | 63 | 331
@@ -40,7 +40,7 @@ Frequency | Tune | Inductor
 
 ***
 
-###20-Meter Band
+### 20-Meter Band
 Frequency | Tune | Inductor
 --- |:---:|:---:
 14000 | 48 | 346
@@ -54,7 +54,7 @@ Frequency | Tune | Inductor
 
 ***
 
-###17-Meter Band
+### 17-Meter Band
 Frequency | Tune | Inductor
 --- |:---:|:---:
 18068 | 75 | 353
@@ -63,7 +63,7 @@ Frequency | Tune | Inductor
 
 ***
 
-###15-Meter Band
+### 15-Meter Band
 Frequency | Tune | Inductor
 --- |:---:|:---:
 21000 | 75 | 358
@@ -79,7 +79,7 @@ Frequency | Tune | Inductor
 
 ***
 
-###12-Meter Band
+### 12-Meter Band
 Frequency | Tune | Inductor
 --- |:---:|:---:
 24890 | 39 | 355
@@ -88,7 +88,7 @@ Frequency | Tune | Inductor
 
 ***
 
-###10-Meter Band
+### 10-Meter Band
 Frequency | Tune | Inductor
 --- |:---:|:---:
 28000 | 45 | 368
