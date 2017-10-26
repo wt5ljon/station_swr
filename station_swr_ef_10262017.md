@@ -1,6 +1,5 @@
 # End-Fed Antenna Tuner Summary
 
-### 80-Meter Band
 Frequency Range | Tune | Inductor
 --- |:---:|:---:
 3500 - 3550 | 47.0 | 258.0
@@ -14,40 +13,25 @@ Frequency Range | Tune | Inductor
 3900 - 3950 | 52.5 | 284.0
 3950 - 4000 | 55.5 | 286.0
 
-***
-
-### 40-Meter Band
 Frequency Range | Tune | Inductor
 --- |:---:|:---:
 7000 - 7125 | 69 | 321
 7125 - 7200 | 71 | 316
 7200 - 7300 | 65 | 308
 
-***
-
-### 30-Meter Band
 Frequency Range | Tune | Inductor
 --- |:---:|:---:
 10100 - 10150 | 63 | 331
 
-***
-
-### 20-Meter Band
 Frequency Range | Tune | Inductor
 --- |:---:|:---:
 14000 - 14150 | 48 | 347
 14150 - 14350 | 48 | 350
 
-***
-
-### 17-Meter Band
 Frequency Range | Tune | Inductor
 --- |:---:|:---:
 18068 - 18168 | 76 | 352
 
-***
-
-### 15-Meter Band
 Frequency Range | Tune | Inductor
 --- |:---:|:---:
 21000 - 21100 | 76.0 | 357.3
@@ -56,16 +40,10 @@ Frequency Range | Tune | Inductor
 21300 - 21400 | 80.7 | 347.7
 21400 - 21450 | 80.5 | 341.0
 
-***
-
-### 12-Meter Band
 Frequency Range | Tune | Inductor
 --- |:---:|:---:
 24890 - 24990 | 39 | 355
 
-***
-
-### 10-Meter Band
 Frequency Range | Tune | Inductor
 --- |:---:|:---:
 28000 - 28150 | 50 | 368
