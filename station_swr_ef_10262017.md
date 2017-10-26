@@ -1,4 +1,80 @@
-# Station End-Fed Antenna Tuner Details
+# End-Fed Antenna Tuner Summary - Oct. 26, 2017
+
+### 80-Meter Band
+Frequency Range | Tune | Inductor
+--- |:---:|:---:
+3500 - 3550 | 47.0 | 258.0
+3550 - 3600 | 47.0 | 262.0
+3600 - 3650 | 46.0 | 265.5
+3650 - 3700 | 45.0 | 269.0
+3700 - 3750 | 45.0 | 272.5
+3750 - 3800 | 47.0 | 275.5
+3800 - 3850 | 49.0 | 278.5
+3850 - 3900 | 50.0 | 281.5
+3900 - 3950 | 52.5 | 284.0
+3950 - 4000 | 55.5 | 286.0
+
+***
+
+### 40-Meter Band
+Frequency Range | Tune | Inductor
+--- |:---:|:---:
+7000 - 7125 | 69 | 321
+7125 - 7200 | 71 | 316
+7200 - 7300 | 65 | 308
+
+***
+
+### 30-Meter Band
+Frequency Range | Tune | Inductor
+--- |:---:|:---:
+10100 - 10150 | 63 | 331
+
+***
+
+### 20-Meter Band
+Frequency Range | Tune | Inductor
+--- |:---:|:---:
+14000 - 14150 | 48 | 347
+14150 - 14350 | 48 | 350
+
+***
+
+### 17-Meter Band
+Frequency Range | Tune | Inductor
+--- |:---:|:---:
+18068 - 18168 | 76 | 352
+
+***
+
+### 15-Meter Band
+Frequency Range | Tune | Inductor
+--- |:---:|:---:
+21000 - 21100 | 76.0 | 357.3
+21100 - 21200 | 78.0 | 354.7
+21200 - 21300 | 79.0 | 351.7
+21300 - 21400 | 80.7 | 347.7
+21400 - 21450 | 80.5 | 341.0
+
+***
+
+### 12-Meter Band
+Frequency Range | Tune | Inductor
+--- |:---:|:---:
+24890 - 24990 | 39 | 355
+
+***
+
+### 10-Meter Band
+Frequency Range | Tune | Inductor
+--- |:---:|:---:
+28000 - 28150 | 50 | 368
+28150 - 28300 | 62 | 368
+28300 - 28450 | 72 | 368
+28450 - 28600 | 76 | 368
+28600 - 28800 | 81 | 368
+
+# End-Fed Antenna Tuner Details - Oct. 26, 2017
 
 ### 80-Meter Band
 Frequency | Tune | Inductor
